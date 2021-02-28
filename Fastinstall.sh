@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd $HOME/Tshake
+cd $HOME/HILL
 rm -rf $HOME/.telegram-cli
 install() {
 rm -rf $HOME/.telegram-cli
