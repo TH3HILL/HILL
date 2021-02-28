@@ -47,7 +47,7 @@ fi
 installall
 cd ..
 rm -rf luarocks*
-cd Tshake
+cd HILL
 rm -rf luarocks*
 lua start.lua
 
