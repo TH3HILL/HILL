@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd $HOME/Tshake
+cd $HOME/HILL
 install() {
 rm -rf $HOME/.telegram-cli
 sudo chmod +x tg
@@ -10,7 +10,7 @@ chmod +x ts
 get() {
 rm -fr Tshake.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/TH3HILL/HILL/master/Tshake.lua"
+wget "https://raw.githubusercontent.com/TH3HILL/HILL/main/Tshake.lua"
 lua start.lua
 }
 installall(){
