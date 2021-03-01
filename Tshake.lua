@@ -25,7 +25,7 @@ print("\27[34m"..[[
    |_|  |_|  |_|____/|_|  |_|_____|______|______|
    
                                                                                                           
->> CH > @thehill
+>> CH d > @thehill
 >> CH > @thehill
 >> DEVELOPER > @thehill
 >> DEVELOPER > @thehill
