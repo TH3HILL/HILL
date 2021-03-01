@@ -27,7 +27,7 @@ print("\27[34m"..[[
                                                                                                           
 >> CH d > @thehill
 >> CH > @thehill
->> DEVELOPER > @thehill
+>> DEVELOPER  > @thehill
 >> DEVELOPER > @thehill
 	 
 ]].."\27[m")
